@@ -70,7 +70,7 @@ export function ClaudeHeader({
   version = "v2.1.206",
   user = "Ben",
   model = "Fable 5 with xhigh effort · Claude Max",
-  org = "ben@freestyle.sh's Organization",
+  org = "user@example.com's Organization",
   cwd = "~/dev/brainless",
   tips = ["Ask Claude to create a new app or clone a repo"],
   whatsNew = [

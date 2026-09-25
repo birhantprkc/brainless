@@ -7,7 +7,7 @@
 │                      ▝▜█████▛▘                     │ Added directory path suggestions to `/cd`,… │
 │                        ▘▘ ▝▝                       │ Added a `/doctor` check that proposes trim… │
 │      Fable 5 with xhigh effort · Claude Max ·      │ `/commit-push-pr` now auto-allows `git pus… │
-│      ben@freestyle.sh's Organization               │ /release-notes for more                     │
+│      user@example.com's Organization               │ /release-notes for more                     │
 │       /private/tmp/brainless-capture-workdir       │                                             │
 ╰──────────────────────────────────────────────────────────────────────────────────────────────────╯
 
